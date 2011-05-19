@@ -1,4 +1,6 @@
 Operating System:  Mac OS X
+    Disable Spaces animiation:
+        defaults write com.apple.dock workspaces-swoosh-animation-off -bool YES && killall Dock
 Text Editor:  TextMate
 CSS Editor:  CSSEdit
 Web Browser:  Google Chrome/Mozilla Firefox (with Firebug)
