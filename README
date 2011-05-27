@@ -1,20 +1,31 @@
 Operating System:  Mac OS X
     Disable Spaces animiation:
         defaults write com.apple.dock workspaces-swoosh-animation-off -bool YES && killall Dock
-Note taking:  Notational Velocity
-Text Editor:  TextMate
-CSS Editor:  CSSEdit
-Web Browser:  Google Chrome
-Text Expansion:  TextExpander
-Window Management:  Divvy
+
 Application Launcher:  Alfred (with the Powerpack)
-FTP Client:  Transmit
+Window Management:  Divvy
+Notes:  Notational Velocity
 Terminal:
     oh-my-zsh
     Visor
+
+Text Editor:  TextMate
+CSS Editor:  CSSEdit
+Text Expansion:  TextExpander
+Source control:  git (command line)
+Merge Tool:  Perforce Merge
+
+Web Browser:  Google Chrome
+FTP Client:  Transmit
+
 Presentation:
     Mousepose
+    GotoMeeting
+    Jing
+
 Drive imaging:  SuperDuper!
 File backups:  Crashplan
 File encryption:  Truecrypt
-Source control:  git (command line)
+
+Photo organization: Adobe Lightroom 3
+Image editing: Adobe Photoshop CS5
