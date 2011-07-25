@@ -1,13 +1,12 @@
-Operating System:  Mac OS X
-    Disable Spaces animiation:
-        defaults write com.apple.dock workspaces-swoosh-animation-off -bool YES && killall Dock
+Operating System:  Mac OS X (10.7, Lion)
 
 Application Launcher:  Alfred (with the Powerpack)
+Finder: TotalFinder
 Window Management:  Divvy
-Notes:  Notational Velocity
+Notes:  nvALT 2.0
 Terminal:
     oh-my-zsh
-    Visor
+    iTerm2
 
 Text Editor:  TextMate
 CSS Editor:  CSSEdit
@@ -25,7 +24,7 @@ Presentation:
 
 Drive imaging:  SuperDuper!
 File backups:  Crashplan
-File encryption:  Truecrypt
+File encryption:  FileVault2
 
 Photo organization: Adobe Lightroom 3
 Image editing: Adobe Photoshop CS5
