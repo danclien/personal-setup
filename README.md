@@ -1,3 +1,27 @@
+# Personal Setup
+
+## Windows
+* 1Password
+* 7-Zip
+* AutoHotkey
+* Battle.net
+* ConEmu
+* Crashplan (+ special setup)
+* discord
+* Divvy
+* Dropbox
+* Visual Studio Community
+* OBS Studio
+* VirtualBox
+* qBittorrent
+* ShareX
+* Audio Switch
+* WiTopia
+* Steam
+* Git
+* Chrome
+
+## OS X (Old)
 Operating System:  Mac OS X (10.7, Lion)
 
 Application Launcher:  Alfred (with the Powerpack)
