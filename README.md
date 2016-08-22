@@ -23,6 +23,7 @@
 * Spotify
 * Rufus
 * Drawboard PDF
+* Caffeinated
 
 ## OS X (Old)
 Operating System:  Mac OS X (10.7, Lion)
