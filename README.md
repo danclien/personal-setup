@@ -7,7 +7,7 @@
 * Battle.net
 * ConEmu
 * Crashplan (+ special setup)
-* discord
+* Discord
 * Divvy
 * Dropbox
 * Visual Studio Community
@@ -20,6 +20,8 @@
 * Steam
 * Git
 * Chrome
+* Spotify
+* Rufus
 
 ## OS X (Old)
 Operating System:  Mac OS X (10.7, Lion)
