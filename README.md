@@ -22,6 +22,7 @@
 * Chrome
 * Spotify
 * Rufus
+* Drawboard PDF
 
 ## OS X (Old)
 Operating System:  Mac OS X (10.7, Lion)
